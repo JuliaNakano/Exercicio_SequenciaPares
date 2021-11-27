@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\bin\Debug\netcoreapp3.1\Exercicio_SequenciaPares.exe
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\bin\Debug\netcoreapp3.1\Exercicio_SequenciaPares.deps.json
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\bin\Debug\netcoreapp3.1\Exercicio_SequenciaPares.runtimeconfig.json
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\bin\Debug\netcoreapp3.1\Exercicio_SequenciaPares.runtimeconfig.dev.json
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\bin\Debug\netcoreapp3.1\Exercicio_SequenciaPares.dll
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\bin\Debug\netcoreapp3.1\Exercicio_SequenciaPares.pdb
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\obj\Debug\netcoreapp3.1\Exercicio_SequenciaPares.csprojAssemblyReference.cache
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\obj\Debug\netcoreapp3.1\Exercicio_SequenciaPares.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\obj\Debug\netcoreapp3.1\Exercicio_SequenciaPares.AssemblyInfo.cs
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\obj\Debug\netcoreapp3.1\Exercicio_SequenciaPares.dll
+C:\Users\User\Desktop\atividades PC\Exercicio_SequenciaPares\obj\Debug\netcoreapp3.1\Exercicio_SequenciaPares.pdb
